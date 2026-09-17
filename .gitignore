@@ -1,0 +1,29 @@
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+coverage/
+.idea/
+.vscode/
+*.iml
+android/.gradle/
+android/local.properties
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+macos/Pods/
+linux/flutter/ephemeral/
+windows/flutter/ephemeral/
+
+# Firebase/local secrets
+.env
+*.keystore
+*.jks
+google-services.json
+GoogleService-Info.plist
+
+# Generated Firebase configuration can be regenerated with FlutterFire CLI.
+# Keep this ignored only if your course/repository policy requires it.
