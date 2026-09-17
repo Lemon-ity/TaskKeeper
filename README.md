@@ -14,3 +14,4 @@ Install the Firebase CLI:
 
 ```bash
 npm install -g firebase-tools
+flutterfire configure
